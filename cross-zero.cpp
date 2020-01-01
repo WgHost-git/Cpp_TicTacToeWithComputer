@@ -90,7 +90,7 @@ int main()
 			break;
 		}
 
-		system("cls"); // Обновление экрана
+		system("cls"); 
 
 		inFace(arr);
 		inFace(arrCz);
